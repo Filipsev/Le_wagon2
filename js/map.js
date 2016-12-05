@@ -14,7 +14,7 @@ function init() {
         scrollwheel: false, //set to true to enable mouse scrolling while inside the map area
 
         // The latitude and longitude to center the map (always required)
-        center: new google.maps.LatLng(21.170240, 72.831061), // Surat, Gujarat, India
+        center: new google.maps.LatLng(50.7844083,4.5550796,135), // eCarsTrade, Overijse, Belgie
 
         // How you would like to style the map. 
         // This is where you would paste any style found on Snazzy Maps.

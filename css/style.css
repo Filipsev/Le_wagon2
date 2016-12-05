@@ -516,13 +516,13 @@ i.right {
     }
 
 .btn-color {
-    background-color: #c7a674;
+    background-color: red;
     border-color: transparent;
     color: #fff;
 }
 
     .btn-color:hover {
-        background-color: #d2b17f;
+        background-color: black;
         border-color: transparent;
         color: #fff;
     }
@@ -1750,7 +1750,7 @@ form label.error {
 .header-fixed .logo a {
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 250px;
+    width: 160px;
     transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
