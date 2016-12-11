@@ -1830,7 +1830,7 @@ form label.error {
 
             .nav-menu ul.nav-menu-inner li a {
                 display: block;
-                color: #fff;
+                color:white;
                 font-size: 13px;
                 line-height: 1;
                 padding: 43px 12px;
@@ -1846,7 +1846,8 @@ form label.error {
 }
 
     .nav-menu-icon a {
-        color: #fff;
+        color: #black
+        ;
         display: block;
         font-size: 17px;
         padding: 19px 0;
@@ -1860,7 +1861,8 @@ form label.error {
         .nav-menu ul.nav-menu-inner li a:hover,
         .header-fixed .nav-menu ul.nav-menu-inner li a.current,
         .header-fixed .nav-menu ul.nav-menu-inner li.current a {
-            color: #c7a674;
+            color: red
+            ;
         }
 
 @media all and (max-width: 1024px) {
@@ -2578,7 +2580,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
             }
 
                 .team-item-img .team-item-detail .team-item-detail-inner .social li a:hover {
-                    color: #c7a674;
+                    color: red;
                 }
 
 .team-item-info {
@@ -3096,6 +3098,14 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
         }
 
         .footer .social li:hover a {
-            border-color: #c7a674;
-            color: #c7a674;
+            border-color: red;
+            color: red;
         }
+
+ .screenshotect{
+        position: absolute;
+    top: 63px;
+    left: 49px;
+    width: 227px;
+ }
+
