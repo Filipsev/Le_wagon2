@@ -233,7 +233,7 @@ a {
 }
 
     a:hover {
-        color: #c7a674;
+        color: red;
     }
 
 i.left, .i-left {
@@ -305,7 +305,7 @@ h6 {
     }
 
     h1.color, h2.color, h3.color, h4.color, h5.color, h6.color, h6 .color {
-        color: #c7a674;
+        color: red;
     }
 
 
@@ -393,7 +393,7 @@ p {
         }
 
         p.color p.small.color, p.large.color, p.lead.color, p .color, .color {
-            color: #c7a674;
+            color: red;
         }
 
 /* listing */
@@ -504,13 +504,13 @@ i.right {
 }
 
 .btn-black {
-    background-color: #333;
+    background-color: red;
     border-color: transparent;
     color: #fff;
 }
 
     .btn-black:hover {
-        background-color: #c7a674;
+        background-color: #b98080;
         border-color: transparent;
         color: #fff;
     }
@@ -522,7 +522,7 @@ i.right {
 }
 
     .btn-color:hover {
-        background-color: black;
+        background-color: #b98080;
         border-color: transparent;
         color: #fff;
     }
@@ -2021,7 +2021,7 @@ form label.error {
 /*Icon Style 1*/
 
 .content-box:hover .icon-top, .content-box:hover .icon-left, .content-box:hover .icon-right {
-    background-color: #c7a674;
+    background-color: red;
     color: #fff;
 }
 
@@ -2073,7 +2073,7 @@ form label.error {
 }
 
 .content-box:hover .icon-black {
-    background-color: #c7a674;
+    background-color: red;
     color: #fff;
 }
 
@@ -2512,7 +2512,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
         }
 
             .portfolio-filter li a.active {
-                color: #c7a674;
+                color: red;
             }
 
 /*-------------------------------------------------------------------------------------------*/
@@ -2892,7 +2892,7 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
 }
 
     .pricing-box.highlight {
-        border-top-color: #c7a674;
+        border-top-color: red;
     }
 
 .pricing-padding {
@@ -3107,5 +3107,9 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
     top: 63px;
     left: 49px;
     width: 227px;
+ }
+
+ .smallcaps{
+    text-transform: lowercase;
  }
 
